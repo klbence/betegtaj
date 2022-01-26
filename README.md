@@ -1,0 +1,2 @@
+# betegtaj
+Betegtajekoztato
